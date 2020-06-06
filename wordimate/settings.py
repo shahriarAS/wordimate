@@ -25,7 +25,7 @@ SECRET_KEY = 'o50-)_xp99yp(iw(n8ho_vl#546*@ogez#zo$u-j&zas8e5j=c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['enigmatic-earth-85087.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['wordimate.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
